@@ -1,0 +1,107 @@
+{
+  "US": [
+    "New York, NY", "Los Angeles, CA", "Chicago, IL", "Houston, TX", "Phoenix, AZ",
+    "Philadelphia, PA", "San Antonio, TX", "San Diego, CA", "Dallas, TX", "San Jose, CA",
+    "Austin, TX", "Jacksonville, FL", "San Francisco, CA", "Indianapolis, IN", "Columbus, OH",
+    "Fort Worth, TX", "Charlotte, NC", "Seattle, WA", "Denver, CO", "El Paso, TX",
+    "Washington, DC", "Boston, MA", "Detroit, MI", "Nashville, TN", "Memphis, TN",
+    "Portland, OR", "Oklahoma City, OK", "Las Vegas, NV", "Baltimore, MD", "Milwaukee, WI",
+    "Albuquerque, NM", "Tucson, AZ", "Fresno, CA", "Sacramento, CA", "Mesa, AZ",
+    "Atlanta, GA", "Kansas City, MO", "Colorado Springs, CO", "Miami, FL", "Raleigh, NC",
+    "Omaha, NE", "Long Beach, CA", "Virginia Beach, VA", "Oakland, CA", "Minneapolis, MN",
+    "Tampa, FL", "Tulsa, OK", "Arlington, TX", "Wichita, KS", "New Orleans, LA"
+  ],
+  "AU": [
+    "Sydney, NSW", "Melbourne, VIC", "Brisbane, QLD", "Perth, WA", "Adelaide, SA",
+    "Gold Coast, QLD", "Newcastle, NSW", "Canberra, ACT", "Sunshine Coast, QLD", "Wollongong, NSW",
+    "Hobart, TAS", "Geelong, VIC", "Townsville, QLD", "Cairns, QLD", "Darwin, NT"
+  ],
+  "CA": [
+    "Toronto, ON", "Montreal, QC", "Vancouver, BC", "Calgary, AB", "Edmonton, AB",
+    "Ottawa, ON", "Winnipeg, MB", "Quebec City, QC", "Hamilton, ON", "Kitchener, ON",
+    "London, ON", "Victoria, BC", "Halifax, NS", "Oshawa, ON", "Windsor, ON"
+  ],
+  "UK": [
+    "London", "Birmingham", "Manchester", "Glasgow", "Newcastle",
+    "Sheffield", "Liverpool", "Leeds", "Bristol", "Nottingham",
+    "Leicester", "Coventry", "Belfast", "Edinburgh", "Cardiff"
+  ],
+  "IN": [
+    "Bangalore", "Mumbai", "Delhi", "Hyderabad", "Pune",
+    "Chennai", "Kolkata", "Noida", "Gurgaon", "Ahmedabad"
+  ],
+  "DE": [
+    "Berlin", "Munich", "Frankfurt", "Hamburg", "Cologne",
+    "Stuttgart", "Düsseldorf"
+  ],
+  "FR": [
+    "Paris", "Lyon", "Marseille", "Toulouse", "Nice",
+    "Nantes", "Strasbourg"
+  ],
+  "SG": [
+    "Singapore"
+  ],
+  "AE": [
+    "Dubai", "Abu Dhabi", "Sharjah"
+  ],
+  "IE": [
+    "Dublin", "Cork", "Galway", "Limerick"
+  ],
+  "NL": [
+    "Amsterdam", "Rotterdam", "The Hague", "Utrecht", "Eindhoven"
+  ],
+  "CH": [
+    "Zurich", "Geneva", "Basel", "Bern", "Lausanne"
+  ],
+  "SE": [
+    "Stockholm", "Gothenburg", "Malmö", "Uppsala"
+  ],
+  "NO": [
+    "Oslo", "Bergen", "Trondheim", "Stavanger"
+  ],
+  "DK": [
+    "Copenhagen", "Aarhus", "Odense", "Aalborg"
+  ],
+  "AT": [
+    "Vienna", "Salzburg", "Graz", "Innsbruck"
+  ],
+  "BE": [
+    "Brussels", "Antwerp", "Ghent", "Liege"
+  ],
+  "ES": [
+    "Madrid", "Barcelona", "Valencia", "Seville", "Malaga"
+  ],
+  "IT": [
+    "Rome", "Milan", "Turin", "Florence", "Venice"
+  ],
+  "PL": [
+    "Warsaw", "Kraków", "Wrocław", "Gdańsk", "Poznań"
+  ],
+  "SA": [
+    "Riyadh", "Jeddah", "Dammam", "Mecca", "Medina"
+  ],
+  "QA": [
+    "Doha", "Al Wakrah", "Al Rayyan"
+  ],
+  "KW": [
+    "Kuwait City", "Salmiya", "Jahra"
+  ],
+  "OM": [
+    "Muscat", "Salalah", "Sohar"
+  ],
+  "BH": [
+    "Manama", "Riffa", "Muharraq"
+  ],
+  "NZ": [
+    "Auckland", "Wellington", "Christchurch", "Hamilton", "Tauranga"
+  ],
+  "JP": [
+    "Tokyo", "Osaka", "Yokohama", "Nagoya", "Fukuoka", "Kyoto"
+  ],
+  "KR": [
+    "Seoul", "Busan", "Incheon", "Daegu", "Daejeon"
+  ],
+  "HK": [
+    "Hong Kong"
+  ]
+}
